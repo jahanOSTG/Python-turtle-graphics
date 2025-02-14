@@ -17,6 +17,6 @@ text.hideturtle()
 text.color("white")
 text.penup()
 text.goto(0, 20) 
-text.write("💋I LOVE YOU Anie😘", font=("Arial", 24, "bold"), align="center")
+text.write("💋I LOVE YOU 😘", font=("Arial", 24, "bold"), align="center")
 
 turtle.done()
